@@ -1,3 +1,3 @@
-#Etch-a-sketch
+# Etch-a-sketch
 
-In this project I will be practicing the DOM.  
+In this project I learned about the DOM, Events and CSS grid.
